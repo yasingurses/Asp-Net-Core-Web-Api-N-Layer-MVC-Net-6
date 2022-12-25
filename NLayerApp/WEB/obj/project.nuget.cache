@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F1qLKT6lMnoFZbSQnly3VuS8ylQObkE+oZcHE6xhS0RVPqfXttfKo36s/vLtxKU+oOxkO8cMXrinJu6gWW6sHQ==",
+  "dgSpecHash": "BhGZzVUBwmLAXzUbxsFpewFtawXaxH/Wqn/EetTmNEipWhOQNOKf/gGIAXSbujvTCnuMGVFvQYRkhpa85xBPFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yasin\\Desktop\\Exam\\NLayerApp\\WEB\\WEB.csproj",
+  "projectFilePath": "C:\\Users\\Yasin\\Desktop\\Asp-Net-Core-Web-Api-N-Layer-MVC-Net-6\\NLayerApp\\WEB\\WEB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yasin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Yasin\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

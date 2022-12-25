@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ISS1X8VwiguqS90LlgZF+Nx1pvhAtfp89TX2sCnDIitEEM7csRytJKTJsWx9rYLRAv7siaq/Ly9U1oFdq69Kqg==",
+  "dgSpecHash": "aTg48d338Vhb3NqBkQ1BvFSKs6HbAjw27ZIDyWWEsRcBoCaan64BMgKAUi+KL2b3FyfFjyad7RRn5dgme2ZnrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yasin\\Desktop\\Exam\\NLayerApp\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\Yasin\\Desktop\\Asp-Net-Core-Web-Api-N-Layer-MVC-Net-6\\NLayerApp\\Core\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

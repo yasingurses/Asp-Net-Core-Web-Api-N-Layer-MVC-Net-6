@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VMXhlWkTjQtjNOJs3I7/7SlA3piYS28tEagmFjFT4t8qRGxi65UBExiaHhwqwx8FneBjYOK4JxW39h3Nat2avg==",
+  "dgSpecHash": "hqwUDQWKf/sUgQSwauqjY2NihwRWYA5Acwmq35FToTYCxFkrZ7/upjqmfmdn2fxW/ZX0Wg6cEGZcJBpLkAegCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yasin\\Desktop\\Exam\\NLayerApp\\Caching\\Caching.csproj",
+  "projectFilePath": "C:\\Users\\Yasin\\Desktop\\Asp-Net-Core-Web-Api-N-Layer-MVC-Net-6\\NLayerApp\\Caching\\Caching.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

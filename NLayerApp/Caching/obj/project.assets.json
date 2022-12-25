@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yasin\\Desktop\\Exam\\NLayerApp\\Caching\\Caching.csproj",
+      "projectUniqueName": "C:\\Users\\Yasin\\Desktop\\Asp-Net-Core-Web-Api-N-Layer-MVC-Net-6\\NLayerApp\\Caching\\Caching.csproj",
       "projectName": "Caching",
-      "projectPath": "C:\\Users\\Yasin\\Desktop\\Exam\\NLayerApp\\Caching\\Caching.csproj",
+      "projectPath": "C:\\Users\\Yasin\\Desktop\\Asp-Net-Core-Web-Api-N-Layer-MVC-Net-6\\NLayerApp\\Caching\\Caching.csproj",
       "packagesPath": "C:\\Users\\Yasin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yasin\\Desktop\\Exam\\NLayerApp\\Caching\\obj\\",
+      "outputPath": "C:\\Users\\Yasin\\Desktop\\Asp-Net-Core-Web-Api-N-Layer-MVC-Net-6\\NLayerApp\\Caching\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yasin\\AppData\\Roaming\\NuGet\\NuGet.Config",
